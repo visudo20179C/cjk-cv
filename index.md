@@ -1,10 +1,40 @@
-## Cameron J. Kauflin - CV
+## Cameron J. Kauflin - Creator & Full-Stack Web Developer
 
-![Image of Cameron](https://github.com/visudo20179C/cjk-cv/blob/gh-pages/me.jpg)
+<img src="me.png" style="width:200px; height:400px; float: left;">
 
-You can use the [editor on GitHub](https://github.com/visudo20179C/cjk-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### I love making websites. Pay me to make your website for you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Web development is very simple and powerful. By hiring me to develop your site, you get a personalized experience that you wouldn't get by going with a large competitor. I speak one-on-one with all of my clients to learn about their business needs, and I carefully design websites around the intentions and goals of the business. 
+
+Here are some of the sites I've created or contributed to that are currently running live:
+- [FWKZT.com](https://fwkzt.com)
+- [FWKZT.com - Services(Laravel project serving front-end templates)](https://services.fwkzt.com/loading?type=motd)
+- [FWKZT.com - API (Laravel back-end API)](https://api.fwkzt.com/servers)
+- [Ponder](https://ponder-app.org)
+
+Technologies that I use:
+- Laravel
+- Laravel Forge
+- MySQL/Mariadb
+- SQLite
+- WordPress
+- VueJS
+- NodeJS
+- Bootstrap CSS
+- Tailwind CSS
+- PayPal API
+- AWS
+- Vultr Server Hosting
+- Git/GitHub
+
+Progamming Langauges:
+- PHP
+- HTML/JS/CSS
+- Python
+- SQL (Structured Query Langauge)
+- Shell script
+
+To see all my GitHub contributions, visit my GitHub profile [here](https://github.com/visudo20179C)
 
 ### Markdown
 
