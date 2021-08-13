@@ -34,7 +34,7 @@ Progamming Langauges:
 - SQL (Structured Query Langauge)
 - Shell script
 
-To see all my GitHub contributions, visit my GitHub profile [here](https://github.com/visudo20179C)
+To see all my GitHub contributions, visit my GitHub profile [here](https://github.com/visudo20179C).
 
 ### Markdown
 
