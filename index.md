@@ -5,13 +5,13 @@
 ### I love making websites. Pay me to make your website for you!
 
 Web development is very simple and powerful. By hiring me to develop your site, you get a personalized experience that you wouldn't get by going with a large competitor. I speak one-on-one with all of my clients to learn about their business needs, and I carefully design websites around the intentions and goals of the business. 
-
+<br>
 
 Here are some of the sites I've created or contributed to that are currently running live:
 - [FWKZT.com](https://fwkzt.com)
 - [Ponder](https://ponder-app.org)
 
-#Experience
+# Experience
 Web Developer | FWKZT Gaming Community | 2019 - Present
 - Designed and implemented a full-stack CMS (Content Management System) in the WordPress framework.
 - Created an in-site store that users can use to buy products using PayPal.
