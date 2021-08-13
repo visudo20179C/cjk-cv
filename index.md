@@ -1,6 +1,6 @@
 ## Cameron J. Kauflin - Creator & Full-Stack Web Developer
 
-<img src="me.jpg" style="width:400px; height:400px; float: left; margin-right:10px;">
+<img src="me.jpg" style="width:300px; height:300px; float: left; margin-right:10px;">
 
 ### I love making websites. Pay me to make your website for you!
 
@@ -8,7 +8,7 @@ Web development is very simple and powerful. By hiring me to develop your site, 
 
 Here are some of the sites I've created or contributed to that are currently running live:
 - [FWKZT.com](https://fwkzt.com)
-- [FWKZT.com - Services(Laravel project serving front-end templates)](https://services.fwkzt.com/loading?type=motd)
+- [FWKZT.com - Services (Laravel project serving front-end templates)](https://services.fwkzt.com/loading?type=motd)
 - [FWKZT.com - API (Laravel back-end API)](https://api.fwkzt.com/servers)
 - [Ponder](https://ponder-app.org)
 
