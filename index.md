@@ -1,11 +1,11 @@
-## Cameron J. Kauflin - Creator & Full-Stack Web Developer
+## Cameron J. Kauflin - Full-Stack Web Developer
 
 <img src="me.jpg" style="width:250px; height:325px; float: left; margin-right:10px;">
 
 ### I love making websites. Pay me to make your website for you!
 
 Web development is very simple and powerful. By hiring me to develop your site, you get a personalized experience that you wouldn't get by going with a large competitor. I speak one-on-one with all of my clients to learn about their business needs, and I carefully design websites around the intentions and goals of the business. 
-<br>
+<br/><br/>
 
 # Experience
 Web Developer | FWKZT Gaming Community | 2019 - Present
@@ -39,7 +39,18 @@ Web Developer | Ponder | 2021 - Present
 - Bootstrap CSS
 - Tailwind CSS
 
-# Projects 
+# Projects
+FWKZT Web Services | https://services.fwkzt.com
+  Designed a back-end web system in the Laravel framework to serve front-end views to game server clients
+  
+FWKZT Web API | https://api.fwkzt.com
+  Designed a back-end API (Application Programming Interface) that allows clients to retrive/edit information related to the FWKZT community.
+
+FWKZT Status Page | https://status.fwkzt.com
+  Designed a "Status" page for displaying status' of services run by FWKZT. By visiting this page, it will show you which of the components are offline/online.
+  
+Wordpress Data Fetcher | https://github.com/visudo20179C/js-datafetcher/blob/master/main.js
+  Created a data-fetcher JavaScript class that works with the internal WordPress API.
 
 Progamming Langauges:
 - PHP
