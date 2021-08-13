@@ -7,10 +7,6 @@
 Web development is very simple and powerful. By hiring me to develop your site, you get a personalized experience that you wouldn't get by going with a large competitor. I speak one-on-one with all of my clients to learn about their business needs, and I carefully design websites around the intentions and goals of the business. 
 <br>
 
-Here are some of the sites I've created or contributed to that are currently running live:
-- [FWKZT.com](https://fwkzt.com)
-- [Ponder](https://ponder-app.org)
-
 # Experience
 Web Developer | FWKZT Gaming Community | 2019 - Present
 - Designed and implemented a full-stack CMS (Content Management System) in the WordPress framework.
@@ -24,7 +20,7 @@ Web Developer | Ponder | 2021 - Present
 - Implemented Laravel Sail and Docker into the project.
 - Wrote Unit and Feature tests to test the application's functionality.
 
-Technologies that I use:
+# Technologies:
 - Laravel
 - Laravel Forge
 - WordPress
@@ -33,15 +29,17 @@ Technologies that I use:
 - Vultr Server Hosting
 - Git/GitHub
 
-Database software I use:
+# Database:
 - MySQL/Mariadb
 - SQLite
 
-Frameworks I use:
+# Frameworks:
 - VueJS
 - NodeJS
 - Bootstrap CSS
 - Tailwind CSS
+
+# Projects 
 
 Progamming Langauges:
 - PHP
