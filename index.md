@@ -1,6 +1,6 @@
 ## Cameron J. Kauflin - Creator & Full-Stack Web Developer
 
-<img src="me.jpg" style="width:200px; height:300px; float: left; margin-right:10px;">
+<img src="me.jpg" style="width:250px; height:325px; float: left; margin-right:10px;">
 
 ### I love making websites. Pay me to make your website for you!
 
