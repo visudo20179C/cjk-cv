@@ -6,26 +6,42 @@
 
 Web development is very simple and powerful. By hiring me to develop your site, you get a personalized experience that you wouldn't get by going with a large competitor. I speak one-on-one with all of my clients to learn about their business needs, and I carefully design websites around the intentions and goals of the business. 
 
+
 Here are some of the sites I've created or contributed to that are currently running live:
 - [FWKZT.com](https://fwkzt.com)
-- [FWKZT.com - Services (Laravel project serving front-end templates)](https://services.fwkzt.com/loading?type=motd)
-- [FWKZT.com - API (Laravel back-end API)](https://api.fwkzt.com/servers)
 - [Ponder](https://ponder-app.org)
+
+#Experience
+Web Developer | FWKZT Gaming Community | 2019 - Present
+- Designed and implemented a full-stack CMS (Content Management System) in the WordPress framework.
+- Created an in-site store that users can use to buy products using PayPal.
+- Implemented a forum for community discussion.
+- Created a Laravel API to work with other services that the community offers.
+
+Web Developer | Ponder | 2021 - Present
+- Designed and implemented the Trivia application [Ponder](https://ponder-app.org).
+- Developed a complete back-end API that can be used to create trivia and questions.
+- Implemented Laravel Sail and Docker into the project.
+- Wrote Unit and Feature tests to test the application's functionality.
 
 Technologies that I use:
 - Laravel
 - Laravel Forge
+- WordPress
+- PayPal API
+- AWS/Azure
+- Vultr Server Hosting
+- Git/GitHub
+
+Database software I use:
 - MySQL/Mariadb
 - SQLite
-- WordPress
+
+Frameworks I use:
 - VueJS
 - NodeJS
 - Bootstrap CSS
 - Tailwind CSS
-- PayPal API
-- AWS
-- Vultr Server Hosting
-- Git/GitHub
 
 Progamming Langauges:
 - PHP
@@ -35,35 +51,3 @@ Progamming Langauges:
 - Shell script
 
 To see all my GitHub contributions, visit my GitHub profile [here](https://github.com/visudo20179C).
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/visudo20179C/cjk-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
