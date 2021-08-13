@@ -1,6 +1,6 @@
 ## Cameron J. Kauflin - Creator & Full-Stack Web Developer
 
-<img src="me.png" style="width:200px; height:400px; float: left;">
+<img src="https://github.com/visudo20179C/cjk-cv/blob/gh-pages/me.jpg" style="width:400px; height:400px; float: left; margin-right:10px;">
 
 ### I love making websites. Pay me to make your website for you!
 
