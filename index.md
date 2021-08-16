@@ -41,18 +41,22 @@ Web Developer | Ponder | 2021 - Present
 
 # Projects
 FWKZT Web Services | https://services.fwkzt.com
-  Designed a back-end web system in the Laravel framework to serve front-end views to game server clients
+<br/><br/>
+  Designed a back-end web system in the Laravel framework to serve front-end views to game server clients.
   
 FWKZT Web API | https://api.fwkzt.com
+<br/><br/>
   Designed a back-end API (Application Programming Interface) that allows clients to retrive/edit information related to the FWKZT community.
 
-FWKZT Status Page | https://status.fwkzt.com
-  Designed a "Status" page for displaying status' of services run by FWKZT. By visiting this page, it will show you which of the components are offline/online.
+Ponder - A Trivia Application | https://staging.ponder-app.org/
+<br/><br/>
+  Designed a trivia application with [chx2](https://github.com/chx2) that has both a front-end and API backend for creating trivia sets and questions.
   
 Wordpress Data Fetcher | https://github.com/visudo20179C/js-datafetcher/blob/master/main.js
+<br/><br/>
   Created a data-fetcher JavaScript class that works with the internal WordPress API.
 
-Progamming Langauges:
+Programming Langauges:
 - PHP
 - HTML/JS/CSS
 - Python
