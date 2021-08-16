@@ -8,13 +8,13 @@ Web development is very simple and powerful. By hiring me to develop your site, 
 <br/><br/>
 
 # Experience
-Web Developer | FWKZT Gaming Community | 2019 - Present
+### Web Developer | FWKZT Gaming Community | 2019 - Present
 - Designed and implemented a full-stack CMS (Content Management System) in the WordPress framework.
 - Created an in-site store that users can use to buy products using PayPal.
 - Implemented a forum for community discussion.
 - Created a Laravel API to work with other services that the community offers.
 
-Web Developer | Ponder | 2021 - Present
+### Web Developer | Ponder | 2021 - Present
 - Designed and implemented the Trivia application [Ponder](https://ponder-app.org).
 - Developed a complete back-end API that can be used to create trivia and questions.
 - Implemented Laravel Sail and Docker into the project.
@@ -40,19 +40,19 @@ Web Developer | Ponder | 2021 - Present
 - Tailwind CSS
 
 # Projects
-FWKZT Web Services | https://services.fwkzt.com
+### FWKZT Web Services | https://services.fwkzt.com
 <br/><br/>
   Designed a back-end web system in the Laravel framework to serve front-end views to game server clients.
   
-FWKZT Web API | https://api.fwkzt.com
+### FWKZT Web API | https://api.fwkzt.com
 <br/><br/>
   Designed a back-end API (Application Programming Interface) that allows clients to retrive/edit information related to the FWKZT community.
 
-Ponder - A Trivia Application | https://staging.ponder-app.org/
+### Ponder - A Trivia Application | https://staging.ponder-app.org/
 <br/><br/>
   Designed a trivia application with [chx2](https://github.com/chx2) that has both a front-end and API backend for creating trivia sets and questions.
   
-Wordpress Data Fetcher | https://github.com/visudo20179C/js-datafetcher/blob/master/main.js
+### Wordpress Data Fetcher | https://github.com/visudo20179C/js-datafetcher/blob/master/main.js
 <br/><br/>
   Created a data-fetcher JavaScript class that works with the internal WordPress API.
 
