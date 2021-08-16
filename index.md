@@ -21,7 +21,6 @@ Web development is very simple and powerful. By hiring me to develop your site, 
 - Wrote Unit and Feature tests to test the application's functionality.
 
 # Technologies:
-- Laravel
 - Laravel Forge
 - WordPress
 - PayPal API
@@ -34,6 +33,7 @@ Web development is very simple and powerful. By hiring me to develop your site, 
 - SQLite
 
 # Frameworks:
+- Laravel
 - VueJS
 - NodeJS
 - Bootstrap CSS
