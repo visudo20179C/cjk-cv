@@ -2,7 +2,7 @@
 
 <img src="me.jpg" style="width:250px; height:325px; float: left; margin-right:10px;">
 
-### I love web development. Hire me to help create, maintain, or add additional functionality to your website or web project!
+### Hire me to help create, maintain, or add additional functionality to your website or web project!
 
 ### Email
 cjkbusiness96@gmail.com
