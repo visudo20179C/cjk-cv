@@ -16,12 +16,14 @@ Web development is very simple and powerful. By hiring me to develop your site, 
 
 ### Web Developer | Ponder | 2021 - Present
 - Designed and implemented the Trivia application [Ponder](https://ponder-app.org).
-- Developed a complete back-end API that can be used to create trivia and questions.
+- Developed a complete back-end API that can be used to perform CRUD operations on trivia sets and questions.
 - Implemented Laravel Sail and Docker into the project.
 - Wrote Unit and Feature tests to test the application's functionality.
 
 # Technologies:
 - Laravel Forge
+- Laravel Sail
+- Docker
 - WordPress
 - PayPal API
 - AWS/Azure
