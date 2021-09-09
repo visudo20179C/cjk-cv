@@ -22,14 +22,14 @@ https://github.com/visudo20179C
 - Wrote Unit and Feature tests to test the application's functionality.
 
 ### Web Developer | FWKZT Gaming Community | 2019 - Present
-- Designed and implemented a full-stack CMS (Content Management System) in the WordPress framework. Visit at [FWKZT.com](https://fwkzt.com/).
+- Designed and implemented a full-stack CMS in the WordPress framework. Visit at [FWKZT.com](https://fwkzt.com/).
 - Created an in-site store that users can use to buy products using PayPal.
 - Implemented a forum for community discussion.
 - Integrated the website with other 3rd-party services such as GitHub, Discord, Steam, etc.
 
 # Projects
 
-### Ponder - A Trivia Application | [https://staging.ponder-app.org/](https://staging.ponder-app.org/)
+### Ponder | [https://staging.ponder-app.org/](https://staging.ponder-app.org/)
   Designed a trivia application with [chx2](https://github.com/chx2) that has both a front-end and API backend for creating trivia sets and questions.
   
 ### Connect Four in VueJS | [https://connect-four.visudo.me/](https://connect-four.visudo.me/)
@@ -73,5 +73,3 @@ https://github.com/visudo20179C
 - TypeScript
 - SQL
 - Shell script
-
-To see all my GitHub contributions, visit my GitHub profile [here](https://github.com/visudo20179C).
