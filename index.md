@@ -44,7 +44,7 @@ https://github.com/visudo20179C
 ### FWKZT Web API | [https://api.fwkzt.com](https://api.fwkzt.com/servers)
   Designed a back-end API (Application Programming Interface) that allows clients to retrive/edit information related to the FWKZT community.
   
-# Technologies:
+## Technologies:
 - Laravel Forge
 - Laravel Sail
 - Docker
@@ -54,7 +54,7 @@ https://github.com/visudo20179C
 - Vultr Hosting
 - Git/GitHub
 
-# Frameworks:
+## Frameworks:
 - Laravel
 - Nuxt.js
 - Vue.js
@@ -66,7 +66,7 @@ https://github.com/visudo20179C
 - MySQL/Mariadb
 - SQLite
 
-# Programming Langauges:
+## Programming Langauges:
 - PHP
 - Python
 - HTML/JS/CSS
