@@ -49,9 +49,6 @@ https://github.com/visudo20179C
 ### My Portfolio Site | [https://www.visudo.me/](https://www.visudo.me/)
   My personal website created using the Nuxt.js framework. 
   
-### Follow-Bot | [https://www.visudo.me/follow-bot](https://www.visudo.me/follow-bot)
-  A discord bot I created that utulizes OAuth2 to get a Users' connected accounts and reads their Twitch followers.
-  
 ### FWKZT Web Services | [https://services.fwkzt.com](https://services.fwkzt.com/loading?type=motd)
   Designed a back-end web system in the Laravel framework to serve front-end views to game server clients.
   
