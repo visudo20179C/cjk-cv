@@ -1,7 +1,5 @@
 ## Cameron J. Kauflin - Full-Stack Web Developer
 
-<img src="me.jpg" style="width:250px; height:325px; float: left; margin-right:10px;">
-
 ### Hire me to help create, maintain, or add additional functionality to your website or web project!
 
 ### Email
