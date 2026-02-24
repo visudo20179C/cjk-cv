@@ -1,71 +1,51 @@
-## Cameron J. Kauflin - Full-Stack Web Developer
+# Cameron J. Kauflin  
+**Full-Stack Web Developer**  
+(937) 269-9682 | cjkbusiness96@gmail.com  
+GitHub: https://github.com/visudo20179C  
 
-### Hire me to help create, maintain, or add additional functionality to your website or web project!
+---
 
-### Email
-cjkbusiness96@gmail.com
+## Professional Summary
 
-### Cell
-(937)-269-9682
+Full-Stack Web Developer with experience building, deploying, and maintaining scalable web applications in both enterprise and consulting environments. Strong background in Laravel, Vue.js, Linux administration, and production support. Proven ability to optimize performance, manage deployments, and troubleshoot critical production issues.
 
-### GitHub
-https://github.com/visudo20179C
-<br/><br/>
+---
 
-# Experience
-### The Cincinnati Insurance Companies | Intern | May 2018 - Jan 2020
-- Handled parts of the application deployment process
-- Wrote code in Java and SQL
-- Frequently engaged with the professional staff
-- Resolved customer issues during incident response
+## Professional Experience
 
-### The Cincinnati Insurance Companies | Application System Administrator | Jan 2020 - June 2021
-- Handled dev & production application deployments
-- Managed and configured Windows Servers for use with our application
-- Ran & monitored batch processes & database procedures
-- Troubleshot production issues and handled customer incidents
+### Application Developer  
+**BSM Global** | July 2021 – Present  
+- Develop and maintain full-stack applications using Laravel and Vue.js.  
+- Integrate third-party services (e.g., Xero) to support client business operations.  
+- Administer Linux production environments, improving system performance and reliability.  
+- Troubleshoot production issues and provide technical support to end users.
 
-### BSM Global - Developer | July 2021 - Present
-- Designed and implemented several full-stack web projects using Laravel and VueJS
-- Worked with several business consultants to implement 3rd-party solutions (i.e. Xero)
-- Administered Linux systems and worked to reduce production load and improve performance
-- Troubleshot production issues and handled customer inqueries about the system
+### Application System Administrator  
+**The Cincinnati Insurance Companies** | Jan 2020 – June 2021  
+- Managed development and production deployments for enterprise applications.  
+- Configured and maintained Windows Server environments.  
+- Monitored batch jobs and database procedures to ensure operational continuity.  
+- Resolved production incidents and customer-impacting system issues.
 
-# Projects
-### Euchre in VueJS | [https://euchre.visudo.me/](https://euchre.visudo.me/)
-  An website that allows you to play euchre with friends. It is written in the VueJS framework and utilizes web sockets for real-time communication.
+### IT Intern  
+**The Cincinnati Insurance Companies** | May 2018 – Jan 2020  
+- Assisted with application deployments and environment support.  
+- Developed code in Java and SQL.  
+- Participated in incident response and cross-team collaboration.
 
-### (WIP) Tower Defense in VueJS | [https://mechatd.visudo.me/](https://mechatd.visudo.me/)
-  A project that I'm currently working on. A "Tower Defense" game that is implemented in ThreeJS + VueJS.
+---
 
-### (WIP) Cubic-Sauria - A Roblox Game
-  Another project currently in progress. A dinosaur game where you can PVP with other players as a dinosaur.
-  
-## Technologies:
-- Docker
-- Websockets
-- Linux Server
-- Apache / NGINX
-- Git/GitHub
-- 3D programming
-- Vultr / Vercel Hosting
+## Technical Skills
 
-## Frameworks:
-- Laravel
-- WordPress
-- Vue.js / Nuxt.js
-- Node.js
-- ThreeJS
-- Luau
-- TailwindCSS / BootstrapCSS
+**Languages:** PHP, JavaScript, Lua, HTML, CSS  
+**Frameworks:** Laravel, Vue.js, Nuxt.js, Node.js, Three.js, WordPress  
+**Databases:** MySQL/MariaDB, Microsoft SQL Server, SQLite  
+**DevOps & Tools:** Docker, Linux, Apache, NGINX, Git/GitHub, WebSockets, Vultr, Vercel  
 
-## Database:
-- MySQL/Mariadb
-- Microsoft SQL Server
-- SQLite
+---
 
-## Programming Langauges:
-- PHP
-- Javascript
-- Lua
-- HTML / CSS
+## Selected Projects
+
+**Euchre (Vue.js, WebSockets)** – Real-time multiplayer card game with live client-server communication.  
+**Tower Defense (WIP)** – Browser-based 3D game using Three.js + Vue.js.  
+**Cubic-Sauria (WIP)** – Multiplayer PvP dinosaur game developed in Luau (Roblox platform).
